@@ -13,3 +13,5 @@ $(document).ready(function () {
     console.log('VENI VIDI VICI')
 });
 ```
+
+希月想拥有属于自己的虚拟形象。（0225） 
